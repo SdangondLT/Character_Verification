@@ -1,0 +1,16 @@
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.exe
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.deps.json
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.runtimeconfig.json
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.runtimeconfig.dev.json
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.dll
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\bin\Debug\net5.0\characterVerification.pdb
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.csproj.AssemblyReference.cache
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.AssemblyInfoInputs.cache
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.AssemblyInfo.cs
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.csproj.CoreCompileInputs.cache
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.dll
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\refint\characterVerification.dll
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.pdb
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\characterVerification.genruntimeconfig.cache
+C:\silena_dangond\backEnd\stage1BE\week1\characterVerification\obj\Debug\net5.0\ref\characterVerification.dll
